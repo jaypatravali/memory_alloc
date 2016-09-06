@@ -1,0 +1,17 @@
+#include <stdio.h>	
+#include <stdlib.h>
+#include <string.h>
+#include <iostream>
+#include <emmintrin.h>
+
+using namespace std;
+int main()
+
+{
+	
+cout<<"size of Integer "<< sizeof(int)<<endl;
+
+return 0;
+
+}
+
